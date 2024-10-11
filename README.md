@@ -1,14 +1,11 @@
-# FLUEnT
+**File Structure**
 
-This code comes in three sections
-1. VAE Training
-2. Classifier Training
-3. FLUEnT Video Classification Training
+  - This code comes in three sections
+    - VAE Training
+    - Classifier Training
+    - FLUEnT Video Classification Training
+  - The VAE and Classifier are trained and generate the relevant embeddings to train the FLUEnT model
 
-Steps 1 and 2 are necessary pre-requisites to running step 3.
-
-We do not provide the original dataset here, however it can be provided upon request.
-
-This work has been published 
-https://doi.org/10.1016/j.compbiomed.2024.109014
+**Related Work**
+  - This work has been published in https://doi.org/10.1016/j.compbiomed.2024.109014
 
